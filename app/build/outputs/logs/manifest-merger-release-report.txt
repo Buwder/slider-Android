@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.5.aar\b7a9f7a1d493542d16ecef79aa08c97d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:3:1-35
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:6:1-26
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:5:1-24
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:4:1-39
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:8:1-64
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:8:18-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:9:1-71
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:9:18-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:10:1-77
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:10:18-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:11:1-77
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:11:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:12:1-76
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:12:18-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:13:1-63
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:13:18-60
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:16:1-64
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:16:18-61
+application
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:17:1-42:15
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:20:5-37
+	android:hardwareAccelerated
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:22:5-40
+	android:largeHeap
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:23:5-29
+	android:icon
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:19:5-41
+	android:allowBackup
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:18:5-31
+	android:theme
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:21:5-36
+receiver#pem.com.pemslider.MyReceiver
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:24:5-31:16
+	android:enabled
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:26:9-31
+	android:exported
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:27:9-32
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:25:9-52
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:28:9-30:25
+	android:priority
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:28:24-47
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:29:13-75
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:29:21-72
+activity#pem.com.pemslider.MainActivity
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:32:5-41:16
+	android:screenOrientation
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:36:9-46
+	android:label
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:35:9-41
+	android:configChanges
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:33:9-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:37:9-40:25
+action#android.intent.action.MAIN
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:38:13-65
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:38:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:39:13-73
+	android:name
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml:39:23-70
+uses-sdk
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.5.aar\b7a9f7a1d493542d16ecef79aa08c97d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.5.aar\b7a9f7a1d493542d16ecef79aa08c97d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:20:5-43
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\slider\app\src\main\AndroidManifest.xml
